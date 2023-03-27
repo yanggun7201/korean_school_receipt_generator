@@ -21,7 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 ### [Install Flutter](https://docs.flutter.dev/get-started/install)
 
 ### [Install Visual Studio](https://visualstudio.microsoft.com/vs/)
-need to install [C++](/screenshots/visual_studio_c++.png) together.
+need to install C++ together.
+![C++](/screenshots/visual_studio_c++.png)
 
 ### Enable the developer option in Windows
 On Windows 11 go to settings: Click on Privacy & Security and after, click on for developers option.
