@@ -18,9 +18,24 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Windows
 
+### [Install Flutter](https://docs.flutter.dev/get-started/install)
+
+### [Install Visual Studio](https://visualstudio.microsoft.com/vs/)
+need to install [C++](/screenshots/visual_studio_c++.png) together.
+
+### Enable the developer option in Windows
+On Windows 11 go to settings: Click on Privacy & Security and after, click on for developers option.
+On for developers settings, activate the Developer mode option (Install apps from any source...).
+![windows 11](/screenshots/windows_developer_option.png "")
+
 ### Normal build
 ```
 flutter build windows
+```
+
+### Post build
+```
+cp -R ./assets_real/images ./build/
 ```
 
 ### Build with the [msix](https://pub.dev/packages/msix) 
