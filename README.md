@@ -18,6 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Windows
 
+### Change icon
+```
+./windows/runner/resources/app_icon.ico
+```
+
 ### [Install Flutter](https://docs.flutter.dev/get-started/install)
 
 ### [Install Visual Studio](https://visualstudio.microsoft.com/vs/)
