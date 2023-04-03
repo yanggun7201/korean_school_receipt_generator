@@ -36,7 +36,7 @@ flutter build windows
 
 ### Post build
 ```
-cp -R ./assets_real/images ./build/
+cp -R ./assets_real/ ./build/windows/runner/Release/data/flutter_assets/assets/
 ```
 
 ### Build with the [msix](https://pub.dev/packages/msix) 
